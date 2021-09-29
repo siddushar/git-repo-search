@@ -22,3 +22,6 @@ This project will allows user to fetch all public repositories based on the keyw
     ```bash
     yarn install 
     ```
+
+### Example 
+![](git-search.gif)
